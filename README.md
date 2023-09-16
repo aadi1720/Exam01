@@ -1,15 +1,12 @@
 # Exam 1
 
 ## Rules of Behavior
-1. Do not communicate with anyone during the exam (no email, no social media, no texting, no phones, no talking, no passing notes, no internet communicating).  If there is any evidence of communicating with anyone during the exam you will receive a zero.
-1. You **must** turn off your cell phone and store it away.
 1. Your submission **must** be solely you own work without the assistance of anyone by any means.
 1. All programming code **must** be written in Python.
 1. You **must** use Tuffix to unit test your program.
-1. All your code **must** be pushed to Github by **7:50 p.m. today**.  Any submissions after that time will not be considered.
-1. You may use your book.
+1. All your code **must** be pushed to Github by **11:59 p.m. today**.  Any submissions after that time will not be considered.
+1. You may use your book and powerpoint slides.
 1. You may use the Internet as a **reference only**.
-1. If you have questions, raise your hand in Zoom or send me a private chat in Zoom, **DO NOT USE YOUR MICROPHONE DURING THE EXAM**.
 
 ## Getting Started
 1. Open the Terminal program in Tuffix.
