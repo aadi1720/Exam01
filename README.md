@@ -168,3 +168,5 @@ When you completed the final Github push, go back into github.com through the br
 |10|classroom module defined and meets the program requirements|
 |10|unit testing test.txt file results submitted|
 |10|unit testing passes each test|
+
+NOTE: Maximum 2 COMMITS ARE ALLOWED. More than 2 commits can lead to deduction in 2 points.
